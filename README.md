@@ -164,12 +164,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contact
 
-Your Name/Team Name - [Your Email]
+Rayees Rather - rayeesrather35@gmail.com
 
 Acknowledgements
 
-This project was inspired by (Mention any inspirations or related projects).
-
-We would like to thank (Acknowledge any contributors or libraries used).
-
-This README provides a comprehensive overview of your project and should be a great starting point for potential users and contributors. Good luck!
+This project was inspired by Chat Gpt.
